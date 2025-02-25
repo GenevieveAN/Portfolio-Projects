@@ -1,2 +1,2 @@
 # Data-Cleaning Project
-This is a data cleaning project I started and completed using SQL
+This is a data cleaning project highlights employee data with respect to layoffs
